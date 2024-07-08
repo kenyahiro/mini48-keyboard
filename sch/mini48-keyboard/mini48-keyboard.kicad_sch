@@ -1509,6 +1509,16 @@
 		)
 		(uuid "fe4d860e-56b1-43c9-bfbf-c356ffbdba12")
 	)
+	(text "AE-RP2040"
+		(exclude_from_sim no)
+		(at 51.816 33.782 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "645ea216-b617-4952-8e3f-7605179b7411")
+	)
 	(label "COL5"
 		(at 177.8 54.61 0)
 		(fields_autoplaced yes)
