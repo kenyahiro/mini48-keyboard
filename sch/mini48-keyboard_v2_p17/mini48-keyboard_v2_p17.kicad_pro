@@ -595,6 +595,10 @@
     [
       "1e1ce7b1-e8ed-4468-b821-4533b0c7035a",
       "sw-matrix-para"
+    ],
+    [
+      "62ee3cf3-e559-467b-895d-dcd886341ee9",
+      "pimoroni lcd"
     ]
   ],
   "text_variables": {}
