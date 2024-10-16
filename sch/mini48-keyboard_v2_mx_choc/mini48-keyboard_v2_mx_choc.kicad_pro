@@ -119,11 +119,11 @@
         "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.15,
         "min_hole_to_hole": 0.0,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -595,6 +595,10 @@
     [
       "1e1ce7b1-e8ed-4468-b821-4533b0c7035a",
       "sw-matrix-para"
+    ],
+    [
+      "f0dcc2b4-97e5-4e60-a897-c2d931def6cc",
+      "usb type-c"
     ]
   ],
   "text_variables": {}

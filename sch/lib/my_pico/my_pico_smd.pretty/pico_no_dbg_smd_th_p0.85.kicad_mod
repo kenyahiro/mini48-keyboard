@@ -1746,7 +1746,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "bd085057-7c0e-463a-982b-968a2dc1f0f8")
 	)
-	(model "${KIPRJMOD}/lib/KiCad-RP-Pico/RP-Pico Libraries/Pico.wrl"
+	(model "${KIPRJMOD}/../lib/my_pico/my_pico_smd.pretty/Pico.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
