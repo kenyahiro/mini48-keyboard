@@ -2552,7 +2552,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "1e1ce7b1-e8ed-4468-b821-4533b0c7035a")
-		(property "Sheetname" "sw-matrix"
+		(property "Sheetname" "sw-matrix-para"
 			(at 204.47 36.1184 0)
 			(effects
 				(font
@@ -2561,7 +2561,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "sw_matrix.kicad_sch"
+		(property "Sheetfile" "sw_matrix_para.kicad_sch"
 			(at 204.47 92.0246 0)
 			(effects
 				(font
