@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ae-rp2040")(type "KiCad")(uri "${KIPRJMOD}/../lib/ae-rp2040/ae-rp2040.pretty")(options "")(descr ""))
+  (lib (name "my_keyswitch")(type "KiCad")(uri "${KIPRJMOD}/../lib/my_keyswitch/my_keyswitch.pretty")(options "")(descr ""))
+  (lib (name "my_pico")(type "KiCad")(uri "${KIPRJMOD}/../lib/my_pico/my_pico_smd.pretty")(options "")(descr ""))
+)
