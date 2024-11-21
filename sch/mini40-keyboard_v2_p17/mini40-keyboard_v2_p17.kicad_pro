@@ -603,6 +603,14 @@
     [
       "407f5f90-c011-4113-9d9c-78749735b5d8",
       "OLED SSD1132"
+    ],
+    [
+      "37fc2e2e-1b6c-4829-9feb-0095c4e6dcb2",
+      "ESP32-S3 mcu"
+    ],
+    [
+      "aca86883-0b7d-486a-bd90-98a19a2408e6",
+      "RPI PICO mcu"
     ]
   ],
   "text_variables": {}
